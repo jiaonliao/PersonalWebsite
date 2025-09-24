@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 .claude
 node_modules
+dist
 *.local
 
 # Editor directories and files
